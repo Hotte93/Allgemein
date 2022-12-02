@@ -1,5 +1,11 @@
 Git Commands
 
+	Neuen Ordner erstellen
+	
+		Ordner in Github erstellen
+		git clone <url> //Ordner wird in dem Ordner erstellt der gerade offen ist über git bash
+		
+	
 	Dokumente herunterladen
 	
 		git pull <url> master  //Lädt alle Änderungen im Repository herunter
